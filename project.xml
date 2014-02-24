@@ -5,7 +5,7 @@
 
 	<!-- On this tab, you can not directly modify the source. -->
 	<widget id="http://ax.example.com/ketimobile" version="1.0.0">
-		<name>케티파트너스 모바일 어플</name>
+		<name>원혁 자기소개서</name>
 		<content src="index.html" />
 		<icon src="widget-icon.png" />
 		<feature name="http://wacapps.net/api/deviceapis" />
